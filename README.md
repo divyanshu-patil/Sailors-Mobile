@@ -1,3 +1,7 @@
+> [!NOTE]
+> This is a public archive of Sailors, The repo is made private and will be available on App store soon
+
+
 <a id="top"></a>
 
 <div align="center">
